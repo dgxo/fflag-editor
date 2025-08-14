@@ -9,6 +9,10 @@ dist
 # Node dependencies
 node_modules
 
+# Bun dependencies
+bun.lockb
+bun.lock
+
 # Logs
 logs
 *.log
