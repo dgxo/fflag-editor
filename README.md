@@ -1,75 +1,23 @@
-# Nuxt Minimal Starter
+# [Dog's FFlag Editor](https://fflags.dgox.uk)
 
-Look at the [Nuxt documentation](https://nuxt.com/docs/getting-started/introduction) to learn more.
+A Nuxt website for browsing available FFlags, with descriptions available, and creating a custom configuration.
 
 ## Setup
-
-Make sure to install dependencies:
+This project is intended to be used with [Bun](https://bun.sh/).
 
 ```bash
-# npm
-npm install
-
-# pnpm
-pnpm install
-
-# yarn
-yarn install
-
-# bun
+# Install dependencies
 bun install
-```
 
-## Development Server
-
-Start the development server on `http://localhost:3000`:
-
-```bash
-# npm
-npm run dev
-
-# pnpm
-pnpm dev
-
-# yarn
-yarn dev
-
-# bun
+# Start development server
 bun run dev
-```
 
-## Production
-
-Build the application for production:
-
-```bash
-# npm
-npm run build
-
-# pnpm
-pnpm build
-
-# yarn
-yarn build
-
-# bun
+# Build for production
 bun run build
-```
 
-Locally preview production build:
-
-```bash
-# npm
-npm run preview
-
-# pnpm
-pnpm preview
-
-# yarn
-yarn preview
-
-# bun
+# Locally preview production build
 bun run preview
 ```
 
+This project is hosted on [Vercel](https://vercel.com/) at [fflags.dgox.uk](https://fflags.dgox.uk).
 Check out the [deployment documentation](https://nuxt.com/docs/getting-started/deployment) for more information.
