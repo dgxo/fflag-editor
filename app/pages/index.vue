@@ -1,5 +1,5 @@
 <template>
-	<h1>Dog's FFlag Editor</h1>
+	<h1 class="text-3xl font-bold">Dog's FFlag Editor</h1>
 </template>
 
 <script setup lang="ts">
